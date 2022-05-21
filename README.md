@@ -1,5 +1,5 @@
 # PhoneDetection
-This is for my BSc dissertation.
+This is for my BSc dissertation. For a summary of the project, refere to dissertation_concise.pdf(unofficial). For the official, persian one, contact me.
 
 Use collect_ear_dataset.py to create images from the sides of the head.
 Use Transfer Learning.ipynb to create the model with EfficientNet backbone.
